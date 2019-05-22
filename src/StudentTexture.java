@@ -17,6 +17,7 @@ public static void main(String [] args)
     list[3] = s3;
     for(int i = 0;i<list.length;i++){
     System.out.println(list[i].getName());
+        System.out.println("hello");
     }
     
     
