@@ -18,6 +18,7 @@ public static void main(String [] args)
     for(int i = 0;i<list.length;i++){
     System.out.println(list[i].getName());
         System.out.println("hello");
+        System.out.println("hai");
     }
     
     
